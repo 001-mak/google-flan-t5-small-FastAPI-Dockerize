@@ -1,0 +1,6 @@
+fastapi==0.95.0
+requests==2.31.0
+uvicorn==0.22.0
+sentencepiece==0.1.96
+torch==2.0.1
+transformers==4.28.1
